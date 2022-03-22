@@ -15,6 +15,7 @@ The specific patch versions included will depend on when the image was last buil
   * 10 (default)
   * Any version that `nvm` can install.
 * Python - `runtime.txt` or `Pipfile`
-  * 2.7 (default)
+  * 2.7 
   * 3.5
   * 3.7
+  * 3.9 (default)
