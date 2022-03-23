@@ -68,7 +68,7 @@ defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 diff-match-patch @ file:///Users/ktietz/demo/mc3/conda-bld/diff-match-patch_1630511840874/work
 distlib==0.3.4
 distributed==2.11.0
-docutils @ file:///opt/concourse/worker/volumes/live/6e535e9e-0ab8-4c8c-66e9-972a945a741c/volume/docutils_1638528499246/work
+docutils==0.17.1
 entrypoints==0.3
 env==0.1.0
 et-xmlfile==1.1.0
@@ -184,7 +184,7 @@ Pillow==9.0.1
 pip-chill==1.0.1
 pkginfo @ file:///tmp/build/80754af9/pkginfo_1643162084911/work
 platformdirs==2.5.1
-pluggy @ file:///opt/concourse/worker/volumes/live/fa2e24cf-853f-47b7-45a2-a7ec455a2dbf/volume/pluggy_1633715216048/work
+pluggy==0.13.1
 ply==3.11
 poyo @ file:///tmp/build/80754af9/poyo_1617751526755/work
 prometheus-client @ file:///opt/conda/conda-bld/prometheus_client_1643788673601/work
@@ -212,7 +212,7 @@ pyOpenSSL==19.1.0
 pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
 pyrsistent @ file:///opt/concourse/worker/volumes/live/24b7a9ab-37d8-463c-575f-69184f9cfbc8/volume/pyrsistent_1636111022304/work
 PySocks @ file:///opt/concourse/worker/volumes/live/ef943889-94fc-4539-798d-461c60b77804/volume/pysocks_1605305801690/work
-pytest==6.2.5
+pytest==4.6.11
 python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
 python-lsp-black @ file:///tmp/build/80754af9/python-lsp-black_1634232156041/work
 python-lsp-jsonrpc==1.0.0
@@ -250,7 +250,7 @@ snowballstemmer @ file:///tmp/build/80754af9/snowballstemmer_1637937080595/work
 sortedcollections @ file:///tmp/build/80754af9/sortedcollections_1611172717284/work
 sortedcontainers @ file:///tmp/build/80754af9/sortedcontainers_1623949099177/work
 soupsieve @ file:///tmp/build/80754af9/soupsieve_1636706018808/work
-Sphinx==2.4.0
+Sphinx==1.8.6
 sphinxcontrib-applehelp @ file:///home/ktietz/src/ci/sphinxcontrib-applehelp_1611920841464/work
 sphinxcontrib-devhelp @ file:///home/ktietz/src/ci/sphinxcontrib-devhelp_1611920923094/work
 sphinxcontrib-htmlhelp @ file:///tmp/build/80754af9/sphinxcontrib-htmlhelp_1623945626792/work
