@@ -24,22 +24,22 @@ Dataset: [![](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-ca
 Clone the repository on your local environment <br>
 
 ```bash
-git clone https://github.com/aasis21/4th_umpire.git `
+git clone https://github.com/Nishith-Reddy/Ml_Car_Price_Prediction`
 ```
 
 Navigate to the folder <br>
 ```bash 
-cd 4th_umpire/web
+cd ML_Car_Price_Prediction
 ```
 
 Install the required dependencies <br>
 ```bash
-pip3 install -r requirements.txt 
+pip install -r requirements.txt 
 ```
 
 Run the localhost-server <br>
 ```bash 
-python3 manage.py runserver
+flask run
 ```
 
 The web-app will be available at `127.0.0.1:5000` on your browser. 
