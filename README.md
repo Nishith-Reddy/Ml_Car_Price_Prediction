@@ -4,7 +4,7 @@
 ## Table of Content
   * [Demo](#demo)
   * [Overview](#overview)
-  * [Installation](#installation)
+  * [Local Setup](#local-setup)
   * [Directory Tree](#directory-tree)
 
 
@@ -20,24 +20,46 @@ This is a Flask web app which predicts the selling price of a car using multiple
 
 Dataset: [![](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)
 
-## Installation
+## Local Setup
+Clone the repository on your local environment <br>
 
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/aasis21/4th_umpire.git `
 ```
+
+Navigate to the folder <br>
+```bash 
+cd 4th_umpire/web
+```
+
+Install the required dependencies <br>
+```bash
+pip3 install -r requirements.txt 
+```
+
+Run the localhost-server <br>
+```bash 
+python3 manage.py runserver
+```
+
+The web-app will be available at `127.0.0.1:5000` on your browser. 
+
+
 
 ## Directory Tree 
 ```
-├── app├── static 
-       │   ├── css
-├── template
-│   ├── home.html
 ├── Procfile
-├── README.md
-├── app.py
-├── flight_price.ipynb
-├── flight_rf.pkl
+├── app
+│   ├── main.py
+│   ├── static
+│   │   └── css
+│   │       └── styles.css
+│   └── templates
+│       └── home.html
+├── model.pkl
 ├── requirements.txt
+├── runtime.txt
+└── wsgi.py
 ```
 
 ## Technologies Used
