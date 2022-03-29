@@ -58,6 +58,7 @@ The web-app will be available at `127.0.0.1:5000` on your browser.
 │       └── home.html
 ├── model.pkl
 ├── requirements.txt
+├── car_price_prediction.ipynb
 ├── runtime.txt
 └── wsgi.py
 ```
