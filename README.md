@@ -28,8 +28,8 @@ pip install -r requirements.txt
 
 ## Directory Tree 
 ```
-├── static 
-│   ├── css
+├── app├── static 
+       │   ├── css
 ├── template
 │   ├── home.html
 ├── Procfile
