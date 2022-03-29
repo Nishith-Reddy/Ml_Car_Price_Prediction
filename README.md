@@ -12,9 +12,9 @@
 ## Demo
 Link: [https://ask-car-price.herokuapp.com](https://ask-car-price.herokuapp.com)
 
-[![](https://imgur.com/Dynlly3)](https://ask-car-price.herokuapp.com)
+[![]([img]https://i.imgur.com/VcGEHQa.png[/img]](https://ask-car-price.herokuapp.com)
 
-[![](https://imgur.com/VcGEHQa)](https://ask-car-price.herokuapp.com)
+[![]([img]https://i.imgur.com/VcGEHQa.png[/img]](https://ask-car-price.herokuapp.com)
 
 ## Overview
 This is a Flask web app which predicts the selling price of a car.
