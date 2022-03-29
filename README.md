@@ -5,7 +5,6 @@
   * [Demo](#demo)
   * [Overview](#overview)
   * [Installation](#installation)
-  * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
 
 
@@ -17,17 +16,15 @@ Link: [https://ask-car-price.herokuapp.com](https://ask-car-price.herokuapp.com)
 [![](https://i.imgur.com/GqErsg7.png)](https://ask-car-price.herokuapp.com)
 
 ## Overview
-This is a Flask web app which predicts the selling price of a car.
+This is a Flask web app which predicts the selling price of a car using multiple linear regression model.
+
+Dataset: [![](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)
 
 ## Installation
-The Code is written in Python 3.6.10. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
+
 ```bash
 pip install -r requirements.txt
 ```
-
-## Deployement on Heroku
-
-Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
 ## Directory Tree 
 ```
